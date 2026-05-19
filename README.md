@@ -30,4 +30,3 @@ A arquitetura do projeto segue o fluxo tradicional de engenharia de dados:
 * `application.py`: Ponto de entrada que orquestra a execução da pipeline.
 * `models/DataRepository.py`: Módulo responsável pela lógica de extração e transformação analítica com Pandas.
 * `models/ToRepository.py`: Módulo responsável pela automação de carga e versionamento dos arquivos CSV no repositório de dados.
-* `linguagens_repo.ipynb`: Notebook Jupyter utilizado para prototipagem e análise exploratória inicial das requisições.
