@@ -4,20 +4,6 @@
 
 ---
 
-## 📋 Índice
-
-- [Visão Geral](#-visão-geral)
-- [Arquitetura](#-arquitetura)
-- [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#-pré-requisitos)
-- [Configuração](#-configuração)
-- [Como Usar](#-como-usar)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
----
-
 ## 🔍 Visão Geral
 
 Este projeto implementa uma pipeline ETL (Extract, Transform, Load) completa integrada ao GitHub:
@@ -190,18 +176,6 @@ github-etl-pipeline/
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/minha-feature`)
-3. Commit suas alterações (`git commit -m 'feat: adiciona minha feature'`)
-4. Push para a branch (`git push origin feature/minha-feature`)
-5. Abra um Pull Request
 
 ---
 
