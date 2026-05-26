@@ -1,6 +1,6 @@
 # 🔄 GitHub ETL Pipeline
 
-> Pipeline ETL automatizada que extrai dados da API REST do GitHub, transforma em DataFrames com Pandas, exporta para `.csv` e realiza o commit dos arquivos em um repositório GitHub — tudo via Python puro com `requests`.
+> Pipeline ETL automatizada que extrai dados da API REST do GitHub, transforma em DataFrames com Pandas, exporta para `.csv` e realiza o commit dos arquivos em um repositório GitHub — tudo via Python puro com a biblioteca `requests`.
 
 ---
 
